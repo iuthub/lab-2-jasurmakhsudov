@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(88,85,72);
+}
+
+h1{
+	color: rgb(165,194,243);
+	font-family: Arial;
+}
+p,li{
+	color: rgb(255,255,255);
+	font-family: Verdana;
+}
+b{
+	color: rgb(231,226,127);
+}
+.title-page{
+	font-size: 50px;
+	text-align: center;
+}
+a{
+	color: red;
+}
+img{ vertical-align: center; }
